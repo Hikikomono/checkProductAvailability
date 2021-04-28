@@ -1,8 +1,8 @@
 # checkMacbookAvailability.sh
 
-Bash-script that checks availability of a product at Mediamarkt (AT) and Saturn Online Store (AT)  </br>    
+Python CLI application that checks the availability of a product at Mediamarkt (AT), Saturn Online Store (AT), E-Tec (AT)  </br>    
 
 Example Input / Output:  
-Input: URL of product, eg: "https://www.saturn.at/de/product/_apple-macbook-pro-16"  
+Input: URL of product, e.g.: "https://www.saturn.at/de/product/apple-macbook-pro-16"  
 Output: "Product X available"  
 Output: "Product X not available"  
